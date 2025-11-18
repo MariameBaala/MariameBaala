@@ -1,47 +1,53 @@
-<p align="center">
-  <a href="#"><img width="80%" alt="Hi, I'm Mariame!" src="./assets/gh-readme-header.png" /></a>
-</p>
+<h1 align="center">Hi, I'm <b>Mariame</b> 🌸</h1>
+<p align="center">💻 Computer Engineering Student | 🔍 Learner | 🛠 Future Software Engineer</p>
+<p align="center"><em>"Creativity + Logic = Elegant Code"</em></p>
 
-<br />
+---
 
-I'm a passionate Computer Engineering student from Morocco 🇲🇦
-
-*About Me*
+### 🌷 About Me
+I'm Mariame, a passionate Computer Engineering student from Morocco 🇲🇦.  
+I love building creative software solutions and learning new technologies.
 
 - 💼 Future Software Engineer | Full-Stack Developer  
-- 📚 Currently learning Java, Spring Boot, Python & MySQL  
-- 💻 Focused on Web Development, AI fundamentals, and creative coding  
+- 📚 Currently learning: Java, Spring Boot, Python, MySQL  
+- 💻 Focus: Web Development & AI fundamentals  
 - ✨ Soft Skills: Creativity, Problem Solving, Time Management  
 - 💬 Ask me about coding, Java projects, or AI experiments  
 
-*Tech Stack*
+---
 
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-| <a href="https://github.com/MariameBaala/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MariameBaala&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mariame's github stats" /></a> | <a href="https://github.com/MariameBaala/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariameBaala&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/MariameBaala/YourProject1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariameBaala&repo=YourProject1&theme=buefy" />
-</a>
-<a href="https://github.com/MariameBaala/YourProject2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariameBaala&repo=YourProject2&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-### Connect with Me
+### 🛠 Tech Stack
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img alt="Gmail" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/gmail.svg" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" /></a>
-  <a href="#"><img alt="Portfolio" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/portfolio.svg" /></a>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariameBaala&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariameBaala&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 💻 Top Projects
+<p align="center">
+  <a href="https://github.com/MariameBaala/Project1"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MariameBaala&repo=Project1&theme=rose_pine" /></a>
+  <a href="https://github.com/MariameBaala/Project2"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MariameBaala&repo=Project2&theme=rose_pine" /></a>
+</p>
+
+---
+
+### 🌸 Connect with Me
+<p align="center">
+  <a href="mailto:your-email@gmail.com"><img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"></a>
+  <a href="#"><img alt="Portfolio" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/portfolio.svg"></a>
 </p>
