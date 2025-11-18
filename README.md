@@ -24,3 +24,35 @@ Focus: Web Development | Java | AI fundamentals
 Goal: To build creative and impactful software solutions
 Currently-Learning: Java • Spring Boot • Python • MySQL
 Soft-Skills: Creativity, Problem Solving, Time Management
+
+🔧 Tech Stack
+💻 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode," />
+</p>
+
+🚀 What I’m Currently Working On
+
+✔ Building full-stack projects using Java & MySQL
+✔ Learning the fundamentals of AI and Software Engineering
+✔ Improving skills in problem solving & clean code
+
+⸻
+
+📈 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariameBaala&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariameBaala&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+</p>
+
+✨ My Developer Journey
+Every line of code I write is a step closer to becoming the engineer I dream to be.
+
+📬 Let’s Connect
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-contact-red?style=flat&logo=gmail"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-pink?style=flat"></a>
+</p>
+
+<p align="center">🌸 Thank you for visiting my profile 🌸</p>
