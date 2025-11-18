@@ -5,7 +5,7 @@
 ---
 
 ### 🌷 About Me
-I'm Mariame, a passionate Computer Engineering student from Morocco 🇲🇦.  
+I'm Mariame, a passionate Computer Engineering student from Morocco.  
 I love building creative software solutions and learning new technologies.
 
 - 💼 Future Software Engineer | Full-Stack Developer  
