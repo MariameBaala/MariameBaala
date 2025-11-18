@@ -1,44 +1,47 @@
-<h1 align="center">Hi there, I'm <b>Mariame</b> 🌸</h1>
-<p align="center">💻 Computer Engineering Student | 🔍 Lifelong Learner | 🛠 Future Software Engineer</p>
 <p align="center">
-  <em>"Creativity + Logic = Elegant Code"</em>
+  <a href="#"><img width="80%" alt="Hi, I'm Mariame!" src="./assets/gh-readme-header.png" /></a>
 </p>
 
----
+<br />
 
-### 🌷 About Me
-Hi! I'm Mariame, a passionate Computer Engineering student who loves building creative software solutions.  
-Here’s a little snapshot of me:
+I'm a passionate Computer Engineering student from Morocco 🇲🇦
 
-- 🌟 *Name:* Mariame Baala  
-- 🎓 *Education:* Computer Engineering Student  
-- 💻 *Focus:* Web Development | Java | AI fundamentals  
-- 🚀 *Goal:* Build creative & impactful software solutions  
-- 📚 *Currently Learning:* Java, Spring Boot, Python, MySQL  
-- ✨ *Soft Skills:* Creativity, Problem Solving, Time Management  
+*About Me*
 
----
+- 💼 Future Software Engineer | Full-Stack Developer  
+- 📚 Currently learning Java, Spring Boot, Python & MySQL  
+- 💻 Focused on Web Development, AI fundamentals, and creative coding  
+- ✨ Soft Skills: Creativity, Problem Solving, Time Management  
+- 💬 Ask me about coding, Java projects, or AI experiments  
 
-### 🔧 What I’m Working On
-- 💡 Building full-stack projects using Java & MySQL  
-- 🤖 Learning the fundamentals of AI and Software Engineering  
-- 🧩 Improving my problem-solving and clean code skills  
+*Tech Stack*
 
----
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### 📈 GitHub Stats
+| <a href="https://github.com/MariameBaala/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MariameBaala&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mariame's github stats" /></a> | <a href="https://github.com/MariameBaala/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariameBaala&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/MariameBaala/YourProject1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariameBaala&repo=YourProject1&theme=buefy" />
+</a>
+<a href="https://github.com/MariameBaala/YourProject2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariameBaala&repo=YourProject2&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+### Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariameBaala&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariameBaala&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+  <a href="mailto:your-email@gmail.com"><img alt="Gmail" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/gmail.svg" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" /></a>
+  <a href="#"><img alt="Portfolio" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/portfolio.svg" /></a>
 </p>
-
----
-
-### 🌸 Connect With Me
-<p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-contact-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-pink?style=flat"></a>
-</p>
-
-<p align="center">🌸 Thanks for visiting my profile! 🌸</p>
