@@ -1,42 +1,50 @@
-<h1 align="center">🌷 Hi, I'm Mariame</h1>
-
+<!-- Header -->
+<h1 align="center">Hi there, I'm <b>Mariame</b> 🌸</h1>
+<p align="center">💻 Computer Engineering Student | 🔍 Learner | 🛠 Future Software Engineer</p>
 <p align="center">
-  Computer Engineering Student • Passionate Learner • Future Software Engineer  
+  <em>"Creativity + Logic = Elegant Code"</em>
 </p>
 
 ---
 
-I’m a Computer Engineering student who enjoys writing clean and elegant code.  
-I love learning new technologies at my own pace while building small meaningful projects.
-
-I’m currently exploring:
-
-- 💻 Java & Spring Boot  
-- 🗄️ MySQL and Databases  
-- 🐍 Python basics  
-- 🌐 Web Development Fundamentals  
-
-I believe that technology is not just about coding — it's about creativity, problem solving, and building things that matter.
-
----
-
-### 🛠 Skills I'm Growing With
-
+<!-- Profile views & Followers -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=MariameBaala&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/MariameBaala?color=ff69b4&style=flat" alt="Followers" />
 </p>
 
 ---
 
-### 📊 GitHub Overview
+### 🌷 About Me
+```yaml
+Name: Mariame Baala
+Education: Computer Engineering Student
+Focus: Web Development | Java | AI fundamentals
+Goal: To build creative and impactful software solutions
+Currently-Learning: Java • Spring Boot • Python • MySQL
+Soft-Skills: Creativity, Problem Solving, Time Management
+https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode
+🚀 What I’m Currently Working On
 
+✔ Building full-stack projects using Java & MySQL
+✔ Learning the fundamentals of AI and Software Engineering
+✔ Improving skills in problem solving & clean code
+
+⸻
+
+📈 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariameBaala&show_icons=true&theme=rose_pine&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariameBaala&layout=compact&theme=rose_pine&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MariameBaala&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariameBaala&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
 </p>
+✨ My Developer Journey
 
----
-
-<p align="center"><em>“Code with intention, design with heart, and learn with passion.”</em></p>
-
-<p align="center">🌸 Thank you for visiting! 🌸</p>
+Every line of code I write is a step closer to becoming the engineer I dream to be.
+📬 Let’s Connect
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-contact-red?style=flat&logo=gmail"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-pink?style=flat"></a>
+</p>
+<p align="center">🌸 Thank you for visiting my profile 🌸</p>
