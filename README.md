@@ -40,9 +40,6 @@ I love building creative software solutions and learning new technologies.
 ### 💻 Top Projects
 <p align="center">
   <a href="https://github.com/MariameBaala/Project1"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MariameBaala&repo=Project1&theme=rose_pine" /></a>
-  <a href="https://github.com/MariameBaala/Project2"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MariameBaala&repo=Project2&theme=rose_pine" /></a>
-</p>
-
 ---
 
 ### 🌸 Connect with Me
