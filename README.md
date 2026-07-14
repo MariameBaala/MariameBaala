@@ -11,7 +11,7 @@
 ---
 
 ### 🌷 About Me
-I am a passionate **Computer Engineering Student** based in Morocco, dedicated to crafting efficient, elegant, and user-centric software solutions. I bridge the gap between creative design and robust logic.
+I am a passionate **Computer Engineering Student** based in Morocco, dedicated to building clean, secure, and user-friendly software solutions. I enjoy transforming complex problems into structured, maintainable code.
 
 * 🎓 **Education:** Pursuing my degree in Computer Engineering.
 * 🚀 **Focus:** Full-Stack Web Development, Database Management, and AI Fundamentals.
